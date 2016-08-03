@@ -1,5 +1,12 @@
 <?php
 return [
+    'eventBus' => [
+         'class' => \insight\EventBus::class,
+    ],
+    'monitor' => [
+        'class' => \insight\docker\Monitor::class,
+        'port' => 4244,
+    ],
     'request' => [
         'class' => \blink\http\Request::class,
         'middleware' => [],

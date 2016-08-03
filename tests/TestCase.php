@@ -1,6 +1,6 @@
 <?php
 
-namespace app\tests;
+namespace insight\tests;
 
 use blink\testing\TestCase as BaseTestCase;
 

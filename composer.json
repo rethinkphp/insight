@@ -1,6 +1,6 @@
 {
     "name" : "insight/insight",
-    "description": "AA service discovery engine and registry based on Docker",
+    "description": "A service discovery engine and registry based on Docker",
     "authors" : [
         {
             "name" : "Jin Hu",
